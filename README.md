@@ -10,7 +10,7 @@ o	Launch EAGLE and start a new project for your PCB design.<br>
 o	Within the project, create a new schematic file.<br>
 	Add Components:<br>
 o	Utilize the built-in libraries in EAGLE or create custom libraries if needed.<br>
-o	Use the 'Add' tool to place the required components onto the schematic sheet.<br>
+o	Use the 'Add' tool to place the required components onto the schematic sheet.<br> 
 	Make Connections:<br>
 o	Connect the components using the 'Net' tool.<br>
 o	Label the nets clearly to maintain clarity and organization in your design.<br>
